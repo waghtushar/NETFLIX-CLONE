@@ -24,7 +24,7 @@ A simplified **Netflix Clone** built with **Node.js** and **React.js**, featurin
 
 1. **Clone Repository**:
    ```bash
-   git clone https://github.com/waghtushar/NETFLIX
+   git clone https://github.com/waghtushar/NETFLIX-CLONE
    cd netflix
    ```
 
